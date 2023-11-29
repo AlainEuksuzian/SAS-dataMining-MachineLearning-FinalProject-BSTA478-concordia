@@ -11,7 +11,7 @@ Some of the topics covered in this class but not limited to, include:
 <li>Decision/Regression Trees </li>
 <li>Dimension Reduction Techniques </li>
 <li>Model Comparision (RMSE, ASE, MSE, etc) </li>
-<li><Discriminant analysis  </li>
+<li> Discriminant Analysis </li>
 <li>Support Vector Machines</li>
 <li>Deep Learning</li>
 <li>Extreme learning machines</li>
